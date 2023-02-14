@@ -1,0 +1,6 @@
+<map id="CommandLoop" name="CommandLoop">
+<area shape="rect" id="node1" title="This is the function to be called from periodic task." alt="" coords="5,56,115,83"/>
+<area shape="rect" id="node2" href="$keypress_8c.html#ad0638fc5acc187b05a6a3f0c53292c2a" title="This function updates SM_KeyPressed available as global variable to Menu Handling." alt="" coords="163,5,332,32"/>
+<area shape="rect" id="node3" href="$keypress_8c.html#a452fefc29635d88e0faa42083edb05ff" title="This function resets all counters if no key pressed." alt="" coords="168,56,327,83"/>
+<area shape="rect" id="node4" href="$keypress_8c.html#a8e290e38bab9686147fe3117224d933f" title="This is the keypress state handler." alt="" coords="187,107,307,133"/>
+</map>

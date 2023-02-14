@@ -1,0 +1,4 @@
+<map id="acquire_appl_keydemand" name="acquire_appl_keydemand">
+<area shape="rect" id="node1" title="This function updates SM_KeyPressed available as global variable to Menu Handling." alt="" coords="163,5,332,32"/>
+<area shape="rect" id="node2" href="$keypress_8h.html#a364e2a93144dc1be0ef69bd730d5e03e" title="This is the function to be called from periodic task." alt="" coords="5,5,115,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="synchronizeCommands" name="synchronizeCommands">
+<area shape="rect" id="node1" title="This function resets all counters if no key pressed." alt="" coords="163,5,321,32"/>
+<area shape="rect" id="node2" href="$keypress_8h.html#a364e2a93144dc1be0ef69bd730d5e03e" title="This is the function to be called from periodic task." alt="" coords="5,5,115,32"/>
+</map>
